@@ -1,0 +1,27 @@
+{
+  "name": "ruphisigmakappa",
+  "version": "1.0.0",
+  "description": "Temporary website",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilmmalu/ruphisigmakappa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilmmalu/ruphisigmakappa/issues"
+  },
+  "homepage": "https://github.com/neilmmalu/ruphisigmakappa#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10"
+  }
+}
